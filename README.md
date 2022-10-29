@@ -50,13 +50,13 @@
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Priyanshu Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu688&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu688&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/itssupriyanaik123/github-readme-stats"><img alt="Supriya Naik Github Stats" src="https://github-readme-stats.vercel.app/api?username=itssupriyanaik123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/itssupriyanaik123/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssupriyanaik123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   <br/>
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssupriyanaik123&theme=dark" alt="SupriyaNaik"/></p>
   </div>
 <br/>
 
@@ -67,7 +67,7 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/priyanshu688/github-readme-activity-graph"><img alt="Priyanshu Vaishnavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshu688&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/itssupriyanaik123/github-readme-activity-graph"><img alt="Supriya Naik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itssupriyanaik123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -77,7 +77,7 @@
 <div align="center">
 
 <a  href="https://www.linkedin.com/in/priyanshu-vaishnavi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vaishnavipriyanshu198@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:supriyanaik1346@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://discord.com/channels/@me"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/PriyanshuVaish8" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a  href="https://www.youtube.com/channel/UCCRQtbvt-RImhLC4gtOz6gw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
@@ -91,10 +91,10 @@
 
 
 ## Views and Followers
-<a href="https://github.com/priyanshu688/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=priyanshu688">
+<a href="https://github.com/itssupriyanaik123/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=itssupriyanaik123">
 </a>
-<a href="https://github.com/priyanshu688?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/itssupriyanaik123?tab=followers"><img src="https://img.shields.io/github/followers/itssupriyanaik123?label=Followers&style=social" alt="GitHub Badge"></a>
  
  
 
