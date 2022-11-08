@@ -15,7 +15,7 @@
  - 💻 Currently working on the Web Development projects and Android App project.
  - ☁  Exploring the Cloud Services and contributing towards it.
  - 👯 I’m looking to collaborate on **Open Source Projects**.
- - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**. 
+ - ✨ Desire to develop the new possibilities in the field of **DBMS & MACHINE LEARNING✌**. 
  - ⚡ Fun fact :- I love to attend Meetups for learning & Conferences for Networking.
  - 📫 Reach me at:- supriyanaik1346@gmail.com
 
