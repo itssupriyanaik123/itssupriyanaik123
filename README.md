@@ -1,6 +1,5 @@
 
 <div align="center">
-
 <a href="#"><img width="60%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="90px"/></a>
 </div>
  
