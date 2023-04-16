@@ -67,7 +67,9 @@
 ## 📈 My Contribution Graph
 
 <br/>
-<a href="https://github.com/itssupriyanaik123/github-readme-activity-graph"><img alt="Supriya Naik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itssupriyanaik123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center"><img align="center"
+<a href="http://www.github.com/itssupriyanaik123"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itssupriyanaik123&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Supriya's%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
 
 <br/>
 <br/>
