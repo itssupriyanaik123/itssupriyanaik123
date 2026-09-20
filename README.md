@@ -8,7 +8,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supriya Naik </h1>
 
 
-<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in computer science engineering .</h3>
+<h3 align="center">I'm Software Engineer.</h3>
 
 
 ## 🙋‍♀ About Me 
